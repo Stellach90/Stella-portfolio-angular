@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "stella-portfolio": {
+      "hosting": {
+        "my-portfolio": [
+          "stella-portfolio"
+        ]
+      }
+    }
+  }
+}

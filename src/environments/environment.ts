@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase:{
+    apiKey: "AIzaSyARkepNmhTs5SKLmQGO9w9C2gSOSYxLSd0",
+    authDomain: "stella-portfolio.firebaseapp.com",
+    databaseURL: "https://stella-portfolio.firebaseio.com",
+    projectId: "stella-portfolio",
+    storageBucket: "stella-portfolio.appspot.com",
+    messagingSenderId: "326503725080",
+    appId: "1:326503725080:web:19fdafc35e433bc158ab6d",
+    measurementId: "G-4DZEWV6VYB"
+  }
 };
 
 /*
